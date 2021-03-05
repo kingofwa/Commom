@@ -1,0 +1,24 @@
+.container{
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    position: relative;
+}
+p.btn.btn-sm.btn-danger {
+    margin-top: 650px;
+    display: inline-block;
+    position: relative;
+}
+span {
+    position: absolute;
+    font-size: 54px;
+    text-align: center;
+    margin-top: 100px;
+    justify-items: center;
+    background: cornsilk;
+    padding-top: 206px;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    margin-left: -205px;
+}
